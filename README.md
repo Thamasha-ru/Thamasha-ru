@@ -5,7 +5,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamasha-ru&show_icons=true&theme=dark)
+<img width = "50%"  src ="https://github-readme-stats.vercel.app/api?username=Thamasha-ru&show_icons=true&theme=tokyonight"/>
+
+<img align="left" width = "30%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamasha-ru&layout=demo&theme=tokyonight"/>
 
 <!---
 Thamasha-ru/Thamasha-ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
