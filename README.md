@@ -1,7 +1,7 @@
       Hi, 👋  I’m Thamasha. 
       
-- 👀 I’m interested in learning IT related things
-- 🌱 I’m currently learning Flutter 
+- 👀 I’m interested in learning IT related new technologies.
+- 🌱 I’m currently learning Mobile frontend development using flutter
 - 📫 Reach me via Linkedin: https://www.linkedin.com/in/thamasha-ruwanthi-88b925203/
 
 
