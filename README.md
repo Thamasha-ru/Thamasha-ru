@@ -6,9 +6,9 @@
 
 
 
-<img align="left" width = "60%"  src ="https://github-readme-stats.vercel.app/api?username=Thamasha-ru&show_icons=true&theme=tokyonight"/>
+<!-- <img align="left" width = "60%"  src ="https://github-readme-stats.vercel.app/api?username=Thamasha-ru&show_icons=true&theme=tokyonight"/>
 
-<img align="right" width = "25%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamasha-ru&layout=demo&theme=tokyonight"/>
+<img align="right" width = "25%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamasha-ru&layout=demo&theme=tokyonight"/> --!>
 
 <!---
 Thamasha-ru/Thamasha-ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
